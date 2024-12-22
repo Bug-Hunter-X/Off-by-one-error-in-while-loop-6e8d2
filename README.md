@@ -1,0 +1,1 @@
+This code demonstrates a common off-by-one error in a while loop. The loop intends to print even numbers from 1 to 10, but due to the incorrect loop condition (i <= 10), it also prints 10, which is an error. The solution shows how to fix the condition to achieve the intended behavior.
